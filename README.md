@@ -1,1 +1,1 @@
-# chibashi_gesui_PDF
+# インターンで作成した下水情報のPDFを取得するプログラム
